@@ -1,0 +1,1 @@
+Opa! Esse foi o meu primeiro projeto para dar inicio aos meus estudos focando em Javascript! Como é meu primeiro projeto para aumentar o portfólio, sei que pode estar não tão polido e sofisticado como poderia ser. Mas, sempre temos que começar por algum lugar!
